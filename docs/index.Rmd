@@ -1,0 +1,23 @@
+---
+title: "Agatha-Nadine Angeles"
+image: "IMG_8137.jpg"
+links:
+  - label: "GitHub: phytologie"
+    url: "https://github.com/phytologie/SDS375-Web"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Agatha-Nadine, *Aggie*, Angeles is a junior Statistics and Data Science major with a certificate in Computer Science, Public Policy, and Creative Writing Poetry. She is from North East Houston in a suburban town called Humble but has greatly enjoyed experiencing city life in Austin. She loves exploring new places and has traveled to: 
+
+  - Rotterdam, The Netherlands
+  
+  - Manila, The Philippines
+  
+  - Chicago, Illinois
+  
+  - New York City, New York
+
+
