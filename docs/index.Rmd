@@ -7,7 +7,6 @@ links:
 output:
   postcards::solana
 ---
- 
 ## Bio
 
 Agatha-Nadine, *Aggie*, Angeles is a junior Statistics and Data Science major with a certificate in Computer Science, Public Policy, and Creative Writing Poetry. She is from North East Houston in a suburban town called Humble but has greatly enjoyed experiencing city life in Austin. She loves exploring new places and has traveled to: 
@@ -21,3 +20,6 @@ Agatha-Nadine, *Aggie*, Angeles is a junior Statistics and Data Science major wi
   - New York City, New York
 
 
+```{r echo=FALSE, results='asis'}
+cat(paste("Last updated:", Sys.time()))
+```

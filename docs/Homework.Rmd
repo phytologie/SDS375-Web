@@ -1,5 +1,14 @@
 ---
-title: "Homework"
+title: "Homework 1: Website"
+author: "Nadine Angeles"
+date: "2025-08-28"
 output: html_document
 ---
+
+
+```{r}
+library("postcards")
+postcards::create_postcard(template = "solana")
+Sys.time()
+```
 
